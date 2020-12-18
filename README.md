@@ -1,5 +1,6 @@
 # awesome-dark-mode
 
+- [DEV Community](https://dev.to/)
 - [Facebook](https://www.facebook.com/)
 - [GitHub](https://github.com/)
 - [Inoreader](https://inoreader.com/)
