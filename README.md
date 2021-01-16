@@ -3,6 +3,7 @@
 - [DEV Community](https://dev.to/)
 - [Facebook](https://www.facebook.com/)
 - [GitHub](https://github.com/)
+- [Gmail](https://mail.google.com/)
 - [Inoreader](https://inoreader.com/)
 - [reddit](https://www.reddit.com/)
 - [Simplenote](https://simplenote.com/)
