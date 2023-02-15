@@ -7,6 +7,7 @@
 - [Inoreader](https://inoreader.com/)
 - [MDN Web Docs](https://developer.mozilla.org/)
 - [Netlify](https://app.netlify.com/)
+- [Qiita](https://qiita.com/)
 - [reddit](https://www.reddit.com/)
 - [Simplenote](https://simplenote.com/)
 - [Slack](https://slack.com/)
