@@ -1,5 +1,6 @@
 # awesome-dark-mode
 
+- [ChatGPT](https://chat.openai.com/chat)
 - [DEV Community](https://dev.to/)
 - [Facebook](https://www.facebook.com/)
 - [GitHub](https://github.com/)
