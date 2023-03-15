@@ -9,6 +9,7 @@
 - [Inoreader](https://inoreader.com/)
 - [MDN Web Docs](https://developer.mozilla.org/)
 - [Netlify](https://app.netlify.com/)
+- [pixiv](https://www.pixiv.net/)
 - [Qiita](https://qiita.com/)
 - [reddit](https://www.reddit.com/)
 - [Simplenote](https://simplenote.com/)
