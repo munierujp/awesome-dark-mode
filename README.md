@@ -16,6 +16,5 @@
 - [Slack](https://slack.com/)
 - [TikTok](https://www.tiktok.com/)
 - [Trello](https://trello.com/)
-- [TweetDeck](https://tweetdeck.twitter.com/)
 - [X](https://twitter.com/)
 - [YouTube](https://www.youtube.com/)
