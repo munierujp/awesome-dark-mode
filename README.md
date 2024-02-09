@@ -14,6 +14,7 @@
 - [reddit](https://www.reddit.com/)
 - [Simplenote](https://simplenote.com/)
 - [Slack](https://slack.com/)
+- [TikTok](https://www.tiktok.com/)
 - [Trello](https://trello.com/)
 - [TweetDeck](https://tweetdeck.twitter.com/)
 - [Twitter](https://twitter.com/)
