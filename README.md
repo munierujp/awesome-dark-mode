@@ -5,7 +5,6 @@
 - [Facebook](https://www.facebook.com/)
 - [GitHub](https://github.com/)
 - [Gmail](https://mail.google.com/)
-- [Human to SQL Translator](https://www.sqltranslate.app/)
 - [Inoreader](https://inoreader.com/)
 - [MDN Web Docs](https://developer.mozilla.org/)
 - [Netlify](https://app.netlify.com/)
