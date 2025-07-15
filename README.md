@@ -19,3 +19,4 @@
 - [Wikipedia](https://www.wikipedia.org/)
 - [X](https://twitter.com/)
 - [YouTube](https://www.youtube.com/)
+- [Zenn](https://zenn.dev/)
