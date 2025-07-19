@@ -15,6 +15,7 @@
 - [Slack](https://slack.com/)
 - [TikTok](https://www.tiktok.com/)
 - [Trello](https://trello.com/)
+- [TVer](https://tver.jp/)
 - [Wikipedia](https://www.wikipedia.org/)
 - [X](https://twitter.com/)
 - [YouTube](https://www.youtube.com/)
